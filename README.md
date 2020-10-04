@@ -10,3 +10,5 @@ preparación.
 ## Comandos usados
 - git checkout -b &lt;rama&gt;: crea una rama y se mueve a la misma.
 - git push origin &lt;rama&gt;: sube al repositorio remoto los cambios se los archivos añadidos.
+- git checkout &lt;rama&gt;: cambia a la rama especificada.
+- git merge &lt;rama&gt;: fusiona la rama especificada con la rama actual.
